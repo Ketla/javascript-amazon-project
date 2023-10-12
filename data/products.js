@@ -656,5 +656,33 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id: "id1",
+    image: "images/products/backpack.jpg",
+    name: "Sjuke-sekken",
+    rating: {
+      stars: 1.5,
+      count: 16543
+    },
+    priceCents: 900,
+    keywords: [
+      "sekk",
+      "backback"
+    ]
+  },
+  {
+    id: "id2",
+    image: "images/products/umbrella.jpg",
+    name: "MORS PARRAPLY",
+    rating: {
+      stars: 5,
+      count: 165
+    },
+    priceCents: 9000,
+    keywords: [
+      "umbrella",
+      "paraply"
+    ]
   }
 ];
